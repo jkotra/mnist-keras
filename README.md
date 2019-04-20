@@ -2,7 +2,7 @@
 
 ![Keras](https://s3.amazonaws.com/keras.io/img/keras-logo-2018-large-1200.png)
 
-Classifying MNIST datset with different approches using Keras(TF backend).
+Classifying MNIST dataset using different approaches with Keras(TF backend).
 
 ![MNIST](https://raw.githubusercontent.com/jkotra/mnist-keras/master/mnist.png)
 
