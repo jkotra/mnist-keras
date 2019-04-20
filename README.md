@@ -6,3 +6,5 @@ Classifying MNIST datset with different approches using Keras(TF backend).
 
 
 * [MNIST classification using Multilayer perceptron(Dense)](https://github.com/jkotra/mnist-keras/blob/master/MNIST_Keras_MLP.ipynb)
+
+* [MNIST classification using Convolutional neural network(CNN)](https://github.com/jkotra/mnist-keras/blob/master/MNIST_Keras_CNN.ipynb)
